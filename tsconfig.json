@@ -14,7 +14,8 @@
     "eslint.config.js",
     "tailwind.config.js",
     "tsconfig.json",
-    "metro.config.js",
-    "babel.config.js"
+    "metro.config.cjs",
+    "babel.config.cjs",
+    "nativewind-env.d.ts"
   ]
 }
